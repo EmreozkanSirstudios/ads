@@ -3,5 +3,7 @@
     "appsflyer": "0",
     "adtime": "20",
     "crosspromoGP":"1",
-    "crosspromoAS":"1"
+    "crosspromoAS":"1",
+    "blackFridayGP" :"1",
+    "blackFridayAS" :"1"
 }
