@@ -4,8 +4,8 @@
     "adtime": "20",
     "crosspromoGP":"1",
     "crosspromoAS":"1",
-    "blackFridayGP" :"1",
-    "blackFridayAS" :"1",
+    "blackFridayGP" :"0",
+    "blackFridayAS" :"0",
     "cyberMondayGP" :"1",
     "cyberMondayAS" :"1"
 }
